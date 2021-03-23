@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "194124159012",
+    "project_id": "notificationapp-f7089",
+    "storage_bucket": "notificationapp-f7089.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194124159012:android:7ce40eb25de520db43e0b1",
+        "android_client_info": {
+          "package_name": "com.digital.applicationnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194124159012-bk64eukdqbnf3ulpd40cd88op12a02le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXtGSBkaQphaC9JOL9CKc9TaSah41uz-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194124159012-bk64eukdqbnf3ulpd40cd88op12a02le.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
